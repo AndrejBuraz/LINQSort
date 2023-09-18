@@ -27,6 +27,7 @@ namespace LINQSortiranje
             };
 
             var studentSort = from s in studentArray
+                              where s.Age > 12 && s.Age < 20
                               orderby s.Age descending
                               select s;
 
