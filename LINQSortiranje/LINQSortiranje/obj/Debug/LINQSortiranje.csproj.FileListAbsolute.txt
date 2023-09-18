@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\LINQSortiranje\LINQSortiranje\bin\Debug\LINQSortiranje.exe.config
+C:\Users\ucenik\source\repos\LINQSortiranje\LINQSortiranje\bin\Debug\LINQSortiranje.exe
+C:\Users\ucenik\source\repos\LINQSortiranje\LINQSortiranje\bin\Debug\LINQSortiranje.pdb
+C:\Users\ucenik\source\repos\LINQSortiranje\LINQSortiranje\obj\Debug\LINQSortiranje.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\LINQSortiranje\LINQSortiranje\obj\Debug\LINQSortiranje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\LINQSortiranje\LINQSortiranje\obj\Debug\LINQSortiranje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\LINQSortiranje\LINQSortiranje\obj\Debug\LINQSortiranje.exe
+C:\Users\ucenik\source\repos\LINQSortiranje\LINQSortiranje\obj\Debug\LINQSortiranje.pdb
